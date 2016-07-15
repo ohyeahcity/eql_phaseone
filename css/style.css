@@ -34,16 +34,6 @@ body {  overflow-x:hidden; /*overflow:hidden; position:relative;*/ }
 .paddingCO { padding:5px 8% 50px 8%; margin-bottom:50px; }
 .padding_B50 { padding-bottom:50px; }
 .blockbox { display:block; clear:both; }
-
-
-.plwording_align {
-	text-align : center;
-
-}
-
-
-
-
 @media screen and (max-width: 992px) {
 	 .blockbox { min-height:80px;}
 }
@@ -923,7 +913,7 @@ footer { clear:both; }
 
 h1 { font-size:60px; color:#666; }
 .fs p { font-size:20px; color:#666; }
-.fsw p { font-size:20px; color:#fff; }
+.fsw p { font-size:17px; color:#fff; }
 
 
 .appliance_title {
@@ -1301,10 +1291,6 @@ h1 { font-size:60px; color:#666; }
 			min-height:800px;
 			background-size:80%;
 		}
-
-		.btnpos_correct768{
-			text-align: center;	
-		}
 	}
 
 	@media (max-width:552px){
@@ -1642,6 +1628,7 @@ h1 { font-size:60px; color:#666; }
 		background-size:cover;
 		padding:100px 0;
 	}
+	.kit_intro p{text-align: center;}
 	.kit_3logos {
 		display:block;
 	}
@@ -1715,6 +1702,7 @@ h1 { font-size:60px; color:#666; }
 
 .logos .col-md-3 {
 	padding:80px 25px;
+	text-align: center;
 }
 
 .logos .col-md-3 img {
@@ -1722,7 +1710,8 @@ h1 { font-size:60px; color:#666; }
 }
 
 .logos .col-md-3 p {
-	font-size:16px;
+	font-size:18px;
+	letter-spacing: 1px;
 }
 
 	@media (max-width:480px){
@@ -1766,6 +1755,10 @@ h1 { font-size:60px; color:#666; }
 
 #essence_block, .col-md-6 {
 	min-height:500px;
+}
+#essence_block p{
+	font-size: 18px;
+	letter-spacing: 1px;
 }
 
 .essence_img {
