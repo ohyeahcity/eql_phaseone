@@ -176,8 +176,8 @@ Multi_Lang_Wording[2]="JP - 日本語";
 
 //多語系網頁Title招呼語 (顯示在瀏覽TAB上)
 Multi_Lang_Title= new Array();
-Multi_Lang_Title[0]="歡迎來到EQL - PM2.5網站";
-Multi_Lang_Title[1]="Welcome to EQL - PM2.5";
+Multi_Lang_Title[0]="歡迎來到EQL網站";
+Multi_Lang_Title[1]="Welcome to EQL";
 Multi_Lang_Title[2]="EQLへようこそ - PM2.5";
 
 
