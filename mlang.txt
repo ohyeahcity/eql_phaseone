@@ -1,7 +1,7 @@
 [
    {
       "lang_navhome": "首頁",
-      "lang_navproduct": "產品<b class=\"caret\"></b>",
+      "lang_navproduct": "產品",
       "lang_navhomie": "Homie",
       "lang_navessence": "Essence",
       "lang_navripple": "Ripple",
@@ -30,7 +30,7 @@
    },
    {
       "lang_navhome": "Home",
-      "lang_navproduct": "Product<b class=\"caret\"></b>",
+      "lang_navproduct": "Product",
       "lang_navhomie": "Homie",
       "lang_navessence": "Essence",
       "lang_navripple": "Ripple",
