@@ -112,6 +112,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_essence_more').innerHTML = arr[lang_index].lang_essence_more;
   document.getElementById('lang_pcstick_title').innerHTML = arr[lang_index].lang_pcstick_title;
   document.getElementById('lang_pcstick_cont').innerHTML = arr[lang_index].lang_pcstick_cont;
+  document.getElementById('lang_pcstick_cont02').innerHTML = arr[lang_index].lang_pcstick_cont02;
   document.getElementById('lang_pcstick_more').innerHTML = arr[lang_index].lang_pcstick_more;
 
   document.getElementById('lang_ripple_feature01').innerHTML = arr[lang_index].lang_ripple_feature01;
@@ -121,7 +122,7 @@ function changeAllNavBarUIWording(arr,lang_index){
 
 
 
-  
+
   return;
 }
 
