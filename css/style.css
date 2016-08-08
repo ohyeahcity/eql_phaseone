@@ -1714,6 +1714,23 @@ h1 { font-size:60px; color:#666; }
 	letter-spacing: 1px;
 }
 
+.logos .col-md-3 a:hover {
+	color: 00CFFF
+}
+
+.logos a > img {
+	opacity:1.0;
+	transition-timing-function:linear;
+	transition:opacity linear 0.3s;
+}
+
+.logos a > img:hover{
+	opacity:0.4;
+	background-color: maroon #600;
+	-webkit-transition:opacity 0.3s;
+	-moz-transition:opacity 0.3s;
+	-o-transition:opacity 0.3s;
+}
 	@media (max-width:480px){
 		.logos .col-md-3 {
 		padding:30px 25px;

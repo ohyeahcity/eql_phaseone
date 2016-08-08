@@ -89,7 +89,7 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('nav_link4_wording').innerHTML = arr[lang_index].NavLink4;
   document.getElementById('nav_link5_wording').innerHTML = arr[lang_index].NavLink5;*/
 
-  document.getElementById('lang_navhome').innerHTML = arr[lang_index].lang_navhome;
+
   document.getElementById('lang_navproduct').innerHTML = arr[lang_index].lang_navproduct;
   document.getElementById('lang_navhomie').innerHTML = arr[lang_index].lang_navhomie;
   document.getElementById('lang_navessence').innerHTML = arr[lang_index].lang_navessence;
@@ -102,27 +102,6 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_logo02').innerHTML = arr[lang_index].lang_logo02;
   document.getElementById('lang_logo03').innerHTML = arr[lang_index].lang_logo03;
   document.getElementById('lang_logo04').innerHTML = arr[lang_index].lang_logo04;
-
-  document.getElementById('lang_appliance_title').innerHTML = arr[lang_index].lang_appliance_title;
-  document.getElementById('lang_appliance_cont').innerHTML = arr[lang_index].lang_appliance_cont;
-  document.getElementById('lang_homie_cont').innerHTML = arr[lang_index].lang_homie_cont;
-  document.getElementById('lang_homie_more').innerHTML = arr[lang_index].lang_homie_more;
-
-  document.getElementById('lang_essence_cont').innerHTML = arr[lang_index].lang_essence_cont;
-  document.getElementById('lang_essence_more').innerHTML = arr[lang_index].lang_essence_more;
-  document.getElementById('lang_pcstick_title').innerHTML = arr[lang_index].lang_pcstick_title;
-  document.getElementById('lang_pcstick_cont').innerHTML = arr[lang_index].lang_pcstick_cont;
-  document.getElementById('lang_pcstick_cont02').innerHTML = arr[lang_index].lang_pcstick_cont02;
-  document.getElementById('lang_pcstick_cont03').innerHTML = arr[lang_index].lang_pcstick_cont03;
-  document.getElementById('lang_pcstick_more').innerHTML = arr[lang_index].lang_pcstick_more;
-
-  document.getElementById('lang_ripple_feature01').innerHTML = arr[lang_index].lang_ripple_feature01;
-  document.getElementById('lang_ripple_feature02').innerHTML = arr[lang_index].lang_ripple_feature02;
-  document.getElementById('lang_ripple_feature03').innerHTML = arr[lang_index].lang_ripple_feature03;
-  document.getElementById('lang_ripple_more').innerHTML = arr[lang_index].lang_ripple_more;
-
-
-
 
   return;
 }
