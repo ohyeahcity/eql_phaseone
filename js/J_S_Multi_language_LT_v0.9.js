@@ -92,6 +92,10 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('lang_navabout').innerHTML = arr[lang_index].lang_navabout;
   document.getElementById('lang_navproduct').innerHTML = arr[lang_index].lang_navproduct;
   document.getElementById('lang_navhomie').innerHTML = arr[lang_index].lang_navhomie;
+  document.getElementById('lang_roomhub').innerHTML = arr[lang_index].lang_roomhub;
+  document.getElementById('lang_pm25').innerHTML = arr[lang_index].lang_pm25;
+  document.getElementById('lang_navair').innerHTML = arr[lang_index].lang_navair;
+  document.getElementById('lang_navpressure').innerHTML = arr[lang_index].lang_navpressure;
   document.getElementById('lang_navessence').innerHTML = arr[lang_index].lang_navessence;
   document.getElementById('lang_navripple').innerHTML = arr[lang_index].lang_navripple;
   document.getElementById('lang_navstick').innerHTML = arr[lang_index].lang_navstick;
