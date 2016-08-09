@@ -89,12 +89,14 @@ function changeAllNavBarUIWording(arr,lang_index){
   document.getElementById('nav_link4_wording').innerHTML = arr[lang_index].NavLink4;
   document.getElementById('nav_link5_wording').innerHTML = arr[lang_index].NavLink5;*/
 
-
+  document.getElementById('lang_navabout').innerHTML = arr[lang_index].lang_navabout;
   document.getElementById('lang_navproduct').innerHTML = arr[lang_index].lang_navproduct;
   document.getElementById('lang_navhomie').innerHTML = arr[lang_index].lang_navhomie;
   document.getElementById('lang_navessence').innerHTML = arr[lang_index].lang_navessence;
   document.getElementById('lang_navripple').innerHTML = arr[lang_index].lang_navripple;
   document.getElementById('lang_navstick').innerHTML = arr[lang_index].lang_navstick;
+  document.getElementById('lang_navinformation').innerHTML = arr[lang_index].lang_navinformation;
+  document.getElementById('lang_navcontact').innerHTML = arr[lang_index].lang_navcontact;
 
   document.getElementById('lang_navch').innerHTML = arr[lang_index].lang_navch;
   document.getElementById('lang_naven').innerHTML = arr[lang_index].lang_naven;

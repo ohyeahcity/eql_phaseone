@@ -1,10 +1,13 @@
 ﻿[
    {
+      "lang_navabout": "關於我們",
       "lang_navproduct": "產品<b class=\"caret\"></b>",
       "lang_navhomie": "Homie",
       "lang_navessence": "Essence",
       "lang_navripple": "Ripple",
       "lang_navstick": "PC Stick",
+      "lang_navinformation":"活動訊息",
+      "lang_navcontact":"與我們聯繫",
       "lang_navch": "TW - 繁體中文",
       "lang_naven": "EN - 英文",
       "lang_logo01": "頂級居家美容享受",
@@ -13,17 +16,19 @@
       "lang_logo04": "顛覆想像的超迷你電腦"
    },
    {
-      "lang_navhome": "Home",
+      "lang_navabout": "About Us",
       "lang_navproduct": "Product Line<b class=\"caret\"></b>",
       "lang_navhomie": "Homie",
       "lang_navessence": "Essence",
       "lang_navripple": "Ripple",
       "lang_navstick": "PC Stick",
+      "lang_navinformation":"News Room",
+      "lang_navcontact":"Contact Us",
       "lang_navch": "TW - Traditional Chinese ",
       "lang_naven": "EN - English",
       "lang_logo01": "Innovative Skincare",
       "lang_logo02": "Home Automation",
       "lang_logo03": "Smart Home System",
-      "lang_logo04": "World Smallest PC"      
+      "lang_logo04": "World Smallest PC"
    }
 ]
